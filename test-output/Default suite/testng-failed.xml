@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.WalmartLabs.HomeWorkAssignment.WalmartLabs_HWAssignment_Tests">
+        <methods>
+          <include name="TestCase4"/>
+          <include name="beforeMethod"/>
+          <include name="TestCase3"/>
+          <include name="beforeClass"/>
+          <include name="TestCase2"/>
+          <include name="afterMethod"/>
+          <include name="TestCase1"/>
+        </methods>
+      </class> <!-- com.WalmartLabs.HomeWorkAssignment.WalmartLabs_HWAssignment_Tests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
