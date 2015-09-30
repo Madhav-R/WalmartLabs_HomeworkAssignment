@@ -79,7 +79,6 @@ TestSuite
 web_browser_drivers
 	the executable driver file for chrome browser is in this folder
 
-
 Scope for improvements
 	* Multi-browser support can be added by adding browser driver files to the web_browser_driver folder and can be loaded dynamically by identifying the browser on which the webpage is loaded.
 	* The current logic for selecting the product from among the results of the search is based on providing additional data to look for in the product title. This can be changed to include more advanced ways of selecting the product.
